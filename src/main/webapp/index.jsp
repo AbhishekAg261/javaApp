@@ -70,7 +70,8 @@ p {
 		<p>Developed using Java, JSP, Servlet, Maven and Apache Tomcat 9.
 		</p>
 
-		<a href="about.jsp" class="about-btn"> About Us </a>
+		<a href="about.jsp" class="about-btn"> About Us </a> <a
+			href="about.jsp" class="about-btn">About Us</a>
 
 		<div class="time">
 			Server Time:
