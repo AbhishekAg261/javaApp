@@ -71,7 +71,7 @@ p {
 		</p>
 
 		<a href="about.jsp" class="about-btn"> About Us </a> <a
-			href="about.jsp" class="about-btn">About Us</a>
+			href="contact.jsp" class="about-btn">Contact Us</a>
 
 		<div class="time">
 			Server Time:
