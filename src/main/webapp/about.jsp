@@ -45,6 +45,11 @@ p {
 		<p>This is a sample Java Web Application developed using Java,
 			JSP, Servlet and Apache Tomcat.</p>
 
+		<p>
+			Current Server Time:
+			<%=new java.util.Date()%>
+		</p>
+
 		<p>Thank you for visiting!</p>
 	</div>
 
